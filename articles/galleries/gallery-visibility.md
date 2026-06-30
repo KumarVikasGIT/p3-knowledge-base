@@ -18,14 +18,14 @@ The default. Only people you've individually invited as collaborators (or, for P
 
 Anyone with the gallery's share link can view it, without needing a P3 account. This is what makes the link-only setting useful for sending photos to people who shouldn't have to register — a wedding gallery sent to extended family, for example.
 
-Turning this on generates (or activates) the gallery's share link. Turning it back off immediately stops the server from serving the gallery's content to that link — anyone trying to open it afterward will be denied. See [Revoking or regenerating a share link](./3-6-share-link-revoke.md) for the distinction between disabling sharing entirely and just regenerating the link.
+Turning this on generates (or activates) the gallery's share link. Turning it back off immediately stops the server from serving the gallery's content to that link — anyone trying to open it afterward will be denied. See [Revoking or regenerating a share link](./share-link-revoke.md) for the distinction between disabling sharing entirely and just regenerating the link.
 
 ## Choosing between them
 
-Use **Private** when you want explicit control over exactly who has access, and you're comfortable inviting people individually. Use **Link-only** when you want frictionless access for people without P3 accounts — but understand the trade-off described in [Is a share link secure?](../encryption/2-4-share-link-security.md): a link, once opened, can't be remotely taken back from someone who already has it.
+Use **Private** when you want explicit control over exactly who has access, and you're comfortable inviting people individually. Use **Link-only** when you want frictionless access for people without P3 accounts — but understand the trade-off described in [Is a share link secure?](../../docs/encryption/share-link-security.md): a link, once opened, can't be remotely taken back from someone who already has it.
 
 ## Related articles
 
-- [Creating and sharing a gallery link](./3-5-share-link-create.md)
-- [Is a share link secure?](../encryption/2-4-share-link-security.md)
-- [Gallery access levels: Viewer, Editor, Owner](./3-4-invite-access-levels.md)
+- [Creating and sharing a gallery link](./share-link-create.md)
+- [Is a share link secure?](../../docs/encryption/share-link-security.md)
+- [Gallery access levels: Viewer, Editor, Owner](./invite-access-levels.md)

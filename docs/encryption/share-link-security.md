@@ -37,10 +37,10 @@ The same applies to "download disabled" settings: they prevent the *interface* f
 
 ## What to do if you've shared a link too widely
 
-If you're concerned a link has reached someone you didn't intend, the only real remedy is **gallery key rotation** — generating an entirely new key and re-wrapping access for everyone who should still have it. This is a heavier operation than simply regenerating a link. See [Revoking or regenerating a share link](../galleries/3-6-share-link-revoke.md) for what's currently available, and talk to support if you need a full rotation.
+If you're concerned a link has reached someone you didn't intend, the only real remedy is **gallery key rotation** — generating an entirely new key and re-wrapping access for everyone who should still have it. This is a heavier operation than simply regenerating a link. See [Revoking or regenerating a share link](../../articles/galleries/share-link-revoke.md) for what's currently available, and talk to support if you need a full rotation.
 
 ## Related articles
 
-- [Revoking or regenerating a share link](../galleries/3-6-share-link-revoke.md)
-- [Can my client re-share the gallery?](../delivery/4-5-client-share-permission.md)
-- [What does "end-to-end encrypted" actually mean for my photos?](./2-1-what-is-e2ee.md)
+- [Revoking or regenerating a share link](../../articles/galleries/share-link-revoke.md)
+- [Can my client re-share the gallery?](../../articles/delivery/client-share-permission.md)
+- [What does "end-to-end encrypted" actually mean for my photos?](./what-is-e2ee.md)

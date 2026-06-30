@@ -26,10 +26,10 @@ P3 is built differently. The scrambling (encryption) and unscrambling (decryptio
 
 ## What it doesn't mean
 
-E2EE doesn't make every part of P3 invisible to P3. Some metadata — like gallery names, when a photo was uploaded, or storage usage — is necessary for the app to function and isn't end-to-end encrypted. See [What can P3 see and what can't it see?](./2-2-what-p3-cannot-see.md) for the exact split.
+E2EE doesn't make every part of P3 invisible to P3. Some metadata — like gallery names, when a photo was uploaded, or storage usage — is necessary for the app to function and isn't end-to-end encrypted. See [What can P3 see and what can't it see?](./what-p3-cannot-see.md) for the exact split.
 
 ## Related articles
 
-- [What can P3 see and what can't it see?](./2-2-what-p3-cannot-see.md)
-- [How do encryption keys work in P3?](./2-3-how-keys-work.md)
-- [What happens to my photos if P3 is hacked?](./2-5-p3-breach-scenario.md)
+- [What can P3 see and what can't it see?](./what-p3-cannot-see.md)
+- [How do encryption keys work in P3?](./how-keys-work.md)
+- [What happens to my photos if P3 is hacked?](./p3-breach-scenario.md)

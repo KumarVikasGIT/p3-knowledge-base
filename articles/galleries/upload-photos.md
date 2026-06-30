@@ -31,10 +31,10 @@ Uploads pause automatically and resume once you're back online — nothing is lo
 
 ## If individual files fail
 
-See [Photos won't upload — common causes and fixes](../troubleshooting/8-1-upload-fails.md) and [Some photos uploaded but others didn't](../troubleshooting/8-2-upload-partial-failure.md) for troubleshooting steps.
+See [Photos won't upload — common causes and fixes](../troubleshooting/upload-fails.md) and [Some photos uploaded but others didn't](../troubleshooting/upload-partial-failure.md) for troubleshooting steps.
 
 ## Related articles
 
-- [How is gallery storage calculated?](./3-9-gallery-storage-usage.md)
-- [What can I do on the free plan?](../getting-started/1-7-free-plan-limits.md)
-- [Photos won't upload — common causes and fixes](../troubleshooting/8-1-upload-fails.md)
+- [How is gallery storage calculated?](./gallery-storage-usage.md)
+- [What can I do on the free plan?](../getting-started/free-plan-limits.md)
+- [Photos won't upload — common causes and fixes](../troubleshooting/upload-fails.md)

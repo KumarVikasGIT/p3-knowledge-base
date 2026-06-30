@@ -42,12 +42,12 @@ From the moment you first go over a limit to the point where anything could actu
 
 ## What to do
 
-- [Upgrade your plan](./6-2-upgrade-plan.md) for more storage and galleries
-- Delete galleries or photos you no longer need (see [Deleting a gallery](../galleries/3-8-delete-gallery.md))
-- If your subscription lapsed and you want to reactivate, see [How to upgrade your plan](./6-2-upgrade-plan.md)
+- [Upgrade your plan](./upgrade-plan.md) for more storage and galleries
+- Delete galleries or photos you no longer need (see [Deleting a gallery](../galleries/delete-gallery.md))
+- If your subscription lapsed and you want to reactivate, see [How to upgrade your plan](./upgrade-plan.md)
 
 ## Related articles
 
-- [I'm seeing a storage warning — what do I do?](../account/5-8-storage-warning.md)
-- [My payment failed — what happens?](./6-4-payment-failed.md)
-- [How to upgrade your plan](./6-2-upgrade-plan.md)
+- [I'm seeing a storage warning — what do I do?](../account/storage-warning.md)
+- [My payment failed — what happens?](./payment-failed.md)
+- [How to upgrade your plan](./upgrade-plan.md)

@@ -25,9 +25,9 @@ The most common causes are a temporary network drop during a large batch, or clo
 
 ## If it keeps happening repeatedly
 
-If you're seeing this consistently, even on a stable connection, it's worth checking your connection speed against the size of your batch — many large RAW files over a slow connection can occasionally need more retries than usual. If it persists, contact support — see [How to contact P3 support](./8-12-contact-support.md).
+If you're seeing this consistently, even on a stable connection, it's worth checking your connection speed against the size of your batch — many large RAW files over a slow connection can occasionally need more retries than usual. If it persists, contact support — see [How to contact P3 support](./contact-support.md).
 
 ## Related articles
 
-- [Photos won't upload — common causes and fixes](./8-1-upload-fails.md)
-- [Uploading photos to a gallery](../galleries/3-2-upload-photos.md)
+- [Photos won't upload — common causes and fixes](./upload-fails.md)
+- [Uploading photos to a gallery](../galleries/upload-photos.md)

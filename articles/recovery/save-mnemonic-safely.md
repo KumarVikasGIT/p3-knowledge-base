@@ -26,14 +26,14 @@ Your recovery phrase is shown to you exactly once. How you store it after that i
 
 ## A reminder on why this matters
 
-P3 never stores a copy of this phrase, by design — that's what makes the encryption real. It also means you genuinely are the last line of defense for your own galleries. See [What are my options if I lose access?](./7-1-recovery-options-overview.md) for what your options look like if this phrase is ever lost.
+P3 never stores a copy of this phrase, by design — that's what makes the encryption real. It also means you genuinely are the last line of defense for your own galleries. See [What are my options if I lose access?](./recovery-options-overview.md) for what your options look like if this phrase is ever lost.
 
 ## Consider a backup password too
 
-A backup password, set up separately in Settings, gives you a second independent way back in — worth doing alongside storing your phrase carefully, not instead of it. See [What is a backup password and should I set one?](../account/5-2-backup-password.md).
+A backup password, set up separately in Settings, gives you a second independent way back in — worth doing alongside storing your phrase carefully, not instead of it. See [What is a backup password and should I set one?](../account/backup-password.md).
 
 ## Related articles
 
-- [What happens during key setup?](../getting-started/1-4-key-setup-explained.md)
-- [What is a backup password and should I set one?](../account/5-2-backup-password.md)
-- [What are my options if I lose access?](./7-1-recovery-options-overview.md)
+- [What happens during key setup?](../getting-started/key-setup-explained.md)
+- [What is a backup password and should I set one?](../account/backup-password.md)
+- [What are my options if I lose access?](./recovery-options-overview.md)

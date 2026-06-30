@@ -21,7 +21,7 @@ P3 handles this in two layers.
 
 The first time your device sees someone's public key, it remembers it. If that key ever changes unexpectedly on a later interaction, your device will show a clear warning rather than silently proceeding. This means any unexpected change is something you'll actually see, not something that happens invisibly.
 
-This protection is automatic — you don't need to do anything to benefit from it. See [I see a warning that someone's key has changed — what do I do?](../galleries/3-10-key-change-warning.md) if you encounter it.
+This protection is automatic — you don't need to do anything to benefit from it. See [I see a warning that someone's key has changed — what do I do?](../../articles/galleries/key-change-warning.md) if you encounter it.
 
 ## Layer 2 — optional, for extra assurance
 
@@ -35,6 +35,6 @@ This system — automatic change-detection plus optional fingerprint verificatio
 
 ## Related articles
 
-- [I see a warning that someone's key has changed — what do I do?](../galleries/3-10-key-change-warning.md)
-- [How do encryption keys work in P3?](./2-3-how-keys-work.md)
-- [Inviting someone to a gallery](../getting-started/1-6-invite-collaborator.md)
+- [I see a warning that someone's key has changed — what do I do?](../../articles/galleries/key-change-warning.md)
+- [How do encryption keys work in P3?](./how-keys-work.md)
+- [Inviting someone to a gallery](../../articles/getting-started/invite-collaborator.md)

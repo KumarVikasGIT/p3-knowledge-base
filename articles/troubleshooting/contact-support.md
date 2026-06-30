@@ -28,7 +28,7 @@ Support aims to respond within 2 business days.
 
 ## For billing-specific questions
 
-See [How to request a refund](../billing/6-6-request-refund.md) for refund-specific contact details, or reach billing@p3.app directly for other billing matters.
+See [How to request a refund](../billing/request-refund.md) for refund-specific contact details, or reach billing@p3.app directly for other billing matters.
 
 ## For a security concern
 
@@ -40,5 +40,5 @@ Use the general support contact form or email, available from the Support sectio
 
 ## Related articles
 
-- [What are my options if I lose access?](../recovery/7-1-recovery-options-overview.md)
-- [How to request a refund](../billing/6-6-request-refund.md)
+- [What are my options if I lose access?](../recovery/recovery-options-overview.md)
+- [How to request a refund](../billing/request-refund.md)

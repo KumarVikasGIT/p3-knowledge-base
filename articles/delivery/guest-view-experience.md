@@ -16,8 +16,8 @@ When your client opens the delivery email and clicks through, they land directly
 - Browse the full gallery
 - Favourite photos
 - Leave comments or flag favourites, if you've enabled that interaction
-- Download photos, if you've turned that on for this delivery (see [Controlling what a client can download](./4-4-client-download-controls.md))
-- Generate their own share link, only if you've explicitly enabled re-sharing (see [Can my client re-share the gallery?](./4-5-client-share-permission.md))
+- Download photos, if you've turned that on for this delivery (see [Controlling what a client can download](./client-download-controls.md))
+- Generate their own share link, only if you've explicitly enabled re-sharing (see [Can my client re-share the gallery?](./client-share-permission.md))
 
 ## What they can't do
 
@@ -33,6 +33,6 @@ You'll be able to see engagement for this gallery — which photos your client v
 
 ## Related articles
 
-- [Controlling what a client can download](./4-4-client-download-controls.md)
-- [Can my client re-share the gallery?](./4-5-client-share-permission.md)
-- [What is the client delivery feature?](./4-1-what-is-client-delivery.md)
+- [Controlling what a client can download](./client-download-controls.md)
+- [Can my client re-share the gallery?](./client-share-permission.md)
+- [What is the client delivery feature?](./what-is-client-delivery.md)

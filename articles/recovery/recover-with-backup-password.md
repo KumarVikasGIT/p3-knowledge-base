@@ -9,7 +9,7 @@ author: Vikas Kumbhakar
 
 # Recovering with a backup password
 
-If you set up a backup password in advance (see [What is a backup password and should I set one?](../account/5-2-backup-password.md)), this option appears automatically alongside the recovery phrase option on the recovery screen — you don't need to remember where to find it.
+If you set up a backup password in advance (see [What is a backup password and should I set one?](../account/backup-password.md)), this option appears automatically alongside the recovery phrase option on the recovery screen — you don't need to remember where to find it.
 
 ## Steps
 
@@ -24,10 +24,10 @@ You'll see a clear message that the password didn't work, and nothing is changed
 
 ## If this option doesn't appear
 
-It only shows up if you'd previously set a backup password. If you don't see it, you likely never set one up — see [I lost my recovery phrase and have no backup password](./7-5-lost-mnemonic-no-backup.md) if you're also missing your recovery phrase.
+It only shows up if you'd previously set a backup password. If you don't see it, you likely never set one up — see [I lost my recovery phrase and have no backup password](./lost-mnemonic-no-backup.md) if you're also missing your recovery phrase.
 
 ## Related articles
 
-- [What is a backup password and should I set one?](../account/5-2-backup-password.md)
-- [What are my options if I lose access?](./7-1-recovery-options-overview.md)
-- [Recovering with your recovery phrase](./7-3-recover-with-mnemonic.md)
+- [What is a backup password and should I set one?](../account/backup-password.md)
+- [What are my options if I lose access?](./recovery-options-overview.md)
+- [Recovering with your recovery phrase](./recover-with-mnemonic.md)

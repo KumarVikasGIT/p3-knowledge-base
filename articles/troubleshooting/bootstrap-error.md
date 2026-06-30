@@ -26,9 +26,9 @@ Logging out and back in is safe — it doesn't affect your galleries or require 
 
 ## If it keeps happening
 
-If this error appears repeatedly across multiple attempts, it's worth noting the small technical detail shown on the error screen (it's there specifically to help diagnose cases like this) and reaching out to support with it — see [How to contact P3 support](./8-12-contact-support.md).
+If this error appears repeatedly across multiple attempts, it's worth noting the small technical detail shown on the error screen (it's there specifically to help diagnose cases like this) and reaching out to support with it — see [How to contact P3 support](./contact-support.md).
 
 ## Related articles
 
-- [I was logged out unexpectedly](./8-6-session-expired.md)
-- [How to contact P3 support](./8-12-contact-support.md)
+- [I was logged out unexpectedly](./session-expired.md)
+- [How to contact P3 support](./contact-support.md)

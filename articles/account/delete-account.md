@@ -34,14 +34,14 @@ Unlike some destructive actions in P3, account deletion is designed with a 30-da
 
 ## This is different from a key reset
 
-It's worth being clear about the distinction, since the two flows sound similar but do very different things. [What is a key reset and what does it permanently delete?](../recovery/7-6-key-reset-explained.md) destroys your encryption keys and every gallery you own, but **your P3 account itself survives** — you keep your email, username, and plan, and set up new keys to start fresh. Account deletion, by contrast, removes the account entirely. If you're trying to recover from a lost recovery phrase, you almost always want key reset, not account deletion — deleting your account is a much bigger step than what's needed to simply regain access.
+It's worth being clear about the distinction, since the two flows sound similar but do very different things. [What is a key reset and what does it permanently delete?](../recovery/key-reset-explained.md) destroys your encryption keys and every gallery you own, but **your P3 account itself survives** — you keep your email, username, and plan, and set up new keys to start fresh. Account deletion, by contrast, removes the account entirely. If you're trying to recover from a lost recovery phrase, you almost always want key reset, not account deletion — deleting your account is a much bigger step than what's needed to simply regain access.
 
 ## If you want to delete your account today
 
-This feature isn't available as a fully automated in-app flow yet. Contact support — see [How to contact P3 support](../troubleshooting/8-12-contact-support.md) — and a member of the team will help process your deletion request manually in the meantime.
+This feature isn't available as a fully automated in-app flow yet. Contact support — see [How to contact P3 support](../troubleshooting/contact-support.md) — and a member of the team will help process your deletion request manually in the meantime.
 
 ## Related articles
 
-- [What is a key reset and what does it permanently delete?](../recovery/7-6-key-reset-explained.md)
-- [How to contact P3 support](../troubleshooting/8-12-contact-support.md)
-- [Deleting a gallery](../galleries/3-8-delete-gallery.md)
+- [What is a key reset and what does it permanently delete?](../recovery/key-reset-explained.md)
+- [How to contact P3 support](../troubleshooting/contact-support.md)
+- [Deleting a gallery](../galleries/delete-gallery.md)

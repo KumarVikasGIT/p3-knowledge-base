@@ -17,9 +17,9 @@ Changing an email safely requires re-verifying the new address before it takes e
 
 ## If you need your email updated
 
-Contact support — see [How to contact P3 support](../troubleshooting/8-12-contact-support.md). Include your current account email and the reason for the change so it can be handled manually in the meantime.
+Contact support — see [How to contact P3 support](../troubleshooting/contact-support.md). Include your current account email and the reason for the change so it can be handled manually in the meantime.
 
 ## Related articles
 
-- [Changing your display name](./5-5-change-username.md)
-- [How to contact P3 support](../troubleshooting/8-12-contact-support.md)
+- [Changing your display name](./change-username.md)
+- [How to contact P3 support](../troubleshooting/contact-support.md)

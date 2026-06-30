@@ -25,13 +25,13 @@ If you stay over your limit for an extended period without addressing it, your a
 
 ## What you can do
 
-- **Free up space** — delete galleries or photos you no longer need (see [Deleting a gallery](../galleries/3-8-delete-gallery.md))
-- **Upgrade your plan** — see [How to upgrade your plan](../billing/6-2-upgrade-plan.md) for more storage
+- **Free up space** — delete galleries or photos you no longer need (see [Deleting a gallery](../galleries/delete-gallery.md))
+- **Upgrade your plan** — see [How to upgrade your plan](../billing/upgrade-plan.md) for more storage
 
 Acting on the early warnings is the easiest path — by the time you'd be at risk of losing anything, you'll have received multiple emails well in advance, so this isn't something that catches you by surprise if you're checking your inbox occasionally.
 
 ## Related articles
 
-- [How is gallery storage calculated?](../galleries/3-9-gallery-storage-usage.md)
-- [How to upgrade your plan](../billing/6-2-upgrade-plan.md)
-- [Deleting a gallery](../galleries/3-8-delete-gallery.md)
+- [How is gallery storage calculated?](../galleries/gallery-storage-usage.md)
+- [How to upgrade your plan](../billing/upgrade-plan.md)
+- [Deleting a gallery](../galleries/delete-gallery.md)

@@ -20,7 +20,7 @@ You'll get an email letting you know the charge didn't succeed, and Razorpay aut
 
 ## If all retries fail
 
-If every retry attempt is exhausted without a successful charge, your subscription moves to an unpaid state, and at that point your account behaves as if the subscription ended — it follows the same path described in [What happens if I exceed my plan limits?](./6-8-plan-limits-enforcement.md) if you're over the Free plan's limits, since you're effectively back on Free at that point.
+If every retry attempt is exhausted without a successful charge, your subscription moves to an unpaid state, and at that point your account behaves as if the subscription ended — it follows the same path described in [What happens if I exceed my plan limits?](./plan-limits-enforcement.md) if you're over the Free plan's limits, since you're effectively back on Free at that point.
 
 ## What to do if you get a failed-payment notice
 
@@ -28,10 +28,10 @@ The simplest fix is usually updating your payment method before the retry window
 
 ## If you keep seeing this and aren't sure why
 
-Reach out to support — see [How to contact P3 support](../troubleshooting/8-12-contact-support.md) — with your account email and we can look into what's happening with the payment specifically.
+Reach out to support — see [How to contact P3 support](../troubleshooting/contact-support.md) — with your account email and we can look into what's happening with the payment specifically.
 
 ## Related articles
 
-- [What happens if I exceed my plan limits?](./6-8-plan-limits-enforcement.md)
-- [How to upgrade your plan](./6-2-upgrade-plan.md)
-- [How do I get an invoice or receipt?](./6-7-invoice-receipt.md)
+- [What happens if I exceed my plan limits?](./plan-limits-enforcement.md)
+- [How to upgrade your plan](./upgrade-plan.md)
+- [How do I get an invoice or receipt?](./invoice-receipt.md)

@@ -35,10 +35,10 @@ Only one rotation can run on a gallery at a time. If you try to remove another p
 
 Removal and rotation stop the removed person from being able to fetch the gallery's encryption key again going forward — they can no longer decrypt new content shared after their removal.
 
-What it cannot do: undo access to photos they already downloaded to their own device before being removed. Once someone has decrypted and saved a photo locally, removing them from the gallery doesn't reach into their device and take it back. This is the same underlying limitation described in [Is a share link secure?](../encryption/2-4-share-link-security.md) — it's a structural property of end-to-end encryption, not something specific to how removal was implemented. The removal flow states this plainly before you confirm, rather than implying a guarantee P3 can't make.
+What it cannot do: undo access to photos they already downloaded to their own device before being removed. Once someone has decrypted and saved a photo locally, removing them from the gallery doesn't reach into their device and take it back. This is the same underlying limitation described in [Is a share link secure?](../../docs/encryption/share-link-security.md) — it's a structural property of end-to-end encryption, not something specific to how removal was implemented. The removal flow states this plainly before you confirm, rather than implying a guarantee P3 can't make.
 
 ## Related articles
 
-- [Is a share link secure?](../encryption/2-4-share-link-security.md)
-- [Gallery access levels: Viewer, Editor, Owner](./3-4-invite-access-levels.md)
-- [I see a warning that someone's key has changed — what do I do?](./3-10-key-change-warning.md)
+- [Is a share link secure?](../../docs/encryption/share-link-security.md)
+- [Gallery access levels: Viewer, Editor, Owner](./invite-access-levels.md)
+- [I see a warning that someone's key has changed — what do I do?](./key-change-warning.md)

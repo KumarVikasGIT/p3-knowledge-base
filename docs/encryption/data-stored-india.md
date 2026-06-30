@@ -22,7 +22,7 @@ Your encrypted photo data is stored using cloud object storage, with account and
 
 ## What "encrypted" means for this question
 
-Because photo content is end-to-end encrypted before it leaves your device (see [What does "end-to-end encrypted" actually mean for my photos?](./2-1-what-is-e2ee.md)), what's physically stored on P3's servers — regardless of region — is ciphertext that P3 itself cannot read. Account metadata (email, gallery names, billing information) is stored in readable form, since P3 needs it to operate the service.
+Because photo content is end-to-end encrypted before it leaves your device (see [What does "end-to-end encrypted" actually mean for my photos?](./what-is-e2ee.md)), what's physically stored on P3's servers — regardless of region — is ciphertext that P3 itself cannot read. Account metadata (email, gallery names, billing information) is stored in readable form, since P3 needs it to operate the service.
 
 ## Legal and compliance status
 
@@ -30,6 +30,6 @@ P3 is operated by a India-based sole proprietorship. The specific compliance pos
 
 ## Related articles
 
-- [What does "end-to-end encrypted" actually mean for my photos?](./2-1-what-is-e2ee.md)
-- [What can P3 see and what can't it see?](./2-2-what-p3-cannot-see.md)
-- [What happens to my photos if P3 is hacked?](./2-5-p3-breach-scenario.md)
+- [What does "end-to-end encrypted" actually mean for my photos?](./what-is-e2ee.md)
+- [What can P3 see and what can't it see?](./what-p3-cannot-see.md)
+- [What happens to my photos if P3 is hacked?](./p3-breach-scenario.md)

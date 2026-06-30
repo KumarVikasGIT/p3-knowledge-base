@@ -35,11 +35,11 @@ You have two real recovery paths, and they need to have been set up *before* you
 1. **Your recovery phrase** — entered at `/recover`, re-derives your key directly.
 2. **A backup password** — if you set one in Settings → Security in advance, it provides a second way back in, independent of the phrase.
 
-If you have neither, your galleries are not recoverable. See the full breakdown in [What are my options if I lose access?](../recovery/7-1-recovery-options-overview.md) — it's worth reading even if you're not currently locked out, so you know what to set up now.
+If you have neither, your galleries are not recoverable. See the full breakdown in [What are my options if I lose access?](../../articles/recovery/recovery-options-overview.md) — it's worth reading even if you're not currently locked out, so you know what to set up now.
 
 ## Related articles
 
-- [What are my options if I lose access?](../recovery/7-1-recovery-options-overview.md)
-- [What is a backup password and should I set one?](../account/5-2-backup-password.md)
-- [I forgot my account password](../recovery/7-2-forgot-password.md)
-- [What happens during key setup?](../getting-started/1-4-key-setup-explained.md)
+- [What are my options if I lose access?](../../articles/recovery/recovery-options-overview.md)
+- [What is a backup password and should I set one?](../../articles/account/backup-password.md)
+- [I forgot my account password](../../articles/recovery/forgot-password.md)
+- [What happens during key setup?](../../articles/getting-started/key-setup-explained.md)

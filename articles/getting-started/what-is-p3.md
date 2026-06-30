@@ -24,5 +24,5 @@ For the full explanation of what this means in practice, see the [Encryption & P
 
 ## Related articles
 
-- [How to create your account](./1-2-create-account.md)
-- [What does "end-to-end encrypted" actually mean for my photos?](../encryption/2-1-what-is-e2ee.md)
+- [How to create your account](./create-account.md)
+- [What does "end-to-end encrypted" actually mean for my photos?](../../docs/encryption/what-is-e2ee.md)

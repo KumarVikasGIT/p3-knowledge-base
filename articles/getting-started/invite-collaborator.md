@@ -27,14 +27,14 @@ The most common reason is simply that the inviting account wasn't online when th
 2. Ask the invitee to refresh and try accepting again.
 3. If it's been more than 48 hours, send a fresh invite.
 
-If a gallery you were invited to still isn't showing up after that, see [A gallery I was invited to isn't showing up](../troubleshooting/8-7-gallery-not-visible.md).
+If a gallery you were invited to still isn't showing up after that, see [A gallery I was invited to isn't showing up](../troubleshooting/gallery-not-visible.md).
 
 ## Access levels
 
-When you invite someone, you'll choose what they can do — see [Gallery access levels: Viewer, Uploader, Manager](../galleries/3-4-invite-access-levels.md) for what each level permits.
+When you invite someone, you'll choose what they can do — see [Gallery access levels: Viewer, Uploader, Manager](../galleries/invite-access-levels.md) for what each level permits.
 
 ## Related articles
 
-- [Gallery access levels: Viewer, Uploader, Manager](../galleries/3-4-invite-access-levels.md)
-- [A gallery I was invited to isn't showing up](../troubleshooting/8-7-gallery-not-visible.md)
-- [Removing someone from a gallery](../galleries/3-7-remove-collaborator.md)
+- [Gallery access levels: Viewer, Uploader, Manager](../galleries/invite-access-levels.md)
+- [A gallery I was invited to isn't showing up](../troubleshooting/gallery-not-visible.md)
+- [Removing someone from a gallery](../galleries/remove-collaborator.md)

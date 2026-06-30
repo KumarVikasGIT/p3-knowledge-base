@@ -16,9 +16,9 @@ By default, no — your client can view and (if you've allowed it) download a ga
 
 ## Turning re-sharing on
 
-If you enable it, your client gains the ability to create their own share link from the gallery, which they can then send to anyone — this only works if the gallery itself is also set to link-only visibility (see [Public vs private galleries](../galleries/3-3-gallery-visibility.md)).
+If you enable it, your client gains the ability to create their own share link from the gallery, which they can then send to anyone — this only works if the gallery itself is also set to link-only visibility (see [Public vs private galleries](../galleries/gallery-visibility.md)).
 
-This is useful in some delivery scenarios — for example, a couple wanting to pass their wedding gallery to family members directly — but it's worth thinking through before turning on, since once your client shares that link further, the same disclosure in [Is a share link secure?](../encryption/2-4-share-link-security.md) applies: anyone who opens it gains real access on their own device.
+This is useful in some delivery scenarios — for example, a couple wanting to pass their wedding gallery to family members directly — but it's worth thinking through before turning on, since once your client shares that link further, the same disclosure in [Is a share link secure?](../../docs/encryption/share-link-security.md) applies: anyone who opens it gains real access on their own device.
 
 ## One thing that works differently here
 
@@ -28,6 +28,6 @@ The one limitation that still applies: this doesn't undo access for anyone who a
 
 ## Related articles
 
-- [Is a share link secure?](../encryption/2-4-share-link-security.md)
-- [Controlling what a client can download](./4-4-client-download-controls.md)
-- [Revoking a client's access to a gallery](./4-7-revoke-client-access.md)
+- [Is a share link secure?](../../docs/encryption/share-link-security.md)
+- [Controlling what a client can download](./client-download-controls.md)
+- [Revoking a client's access to a gallery](./revoke-client-access.md)

@@ -32,5 +32,5 @@ If you know you'll need a specific gallery while disconnected — traveling, for
 
 ## Related articles
 
-- [Photos are loading slowly or not at all](./8-4-photos-not-loading.md)
-- [Photos won't upload — common causes and fixes](./8-1-upload-fails.md)
+- [Photos are loading slowly or not at all](./photos-not-loading.md)
+- [Photos won't upload — common causes and fixes](./upload-fails.md)

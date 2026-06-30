@@ -19,9 +19,9 @@ If a photo fails to decrypt, your device's first assumption is that its locally 
 
 A few possible causes:
 
-- **You're mid-rotation.** If a collaborator was just removed from this gallery, the gallery may briefly be read-only while keys finish updating — see [Removing someone from a gallery](../galleries/3-7-remove-collaborator.md). This typically resolves within seconds.
+- **You're mid-rotation.** If a collaborator was just removed from this gallery, the gallery may briefly be read-only while keys finish updating — see [Removing someone from a gallery](../galleries/remove-collaborator.md). This typically resolves within seconds.
 - **Your local data is stale or corrupted.** Try refreshing the page. If that doesn't help, logging out and back in restores your key cleanly from your account.
-- **You're on a new device or your browser data was cleared**, and recovery hasn't been completed yet — see [Logging in on a new device](../recovery/7-9-new-device-login.md).
+- **You're on a new device or your browser data was cleared**, and recovery hasn't been completed yet — see [Logging in on a new device](../recovery/new-device-login.md).
 
 ## What this is not a sign of
 
@@ -29,10 +29,10 @@ A decryption error on its own doesn't mean your photo is lost or corrupted on P3
 
 ## If nothing resolves it
 
-Contact support — see [How to contact P3 support](./8-12-contact-support.md) — and mention which gallery and roughly when this started, since that helps narrow down the cause quickly.
+Contact support — see [How to contact P3 support](./contact-support.md) — and mention which gallery and roughly when this started, since that helps narrow down the cause quickly.
 
 ## Related articles
 
-- [I see a warning that someone's key has changed — what do I do?](../galleries/3-10-key-change-warning.md)
-- [Removing someone from a gallery](../galleries/3-7-remove-collaborator.md)
-- [Logging in on a new device](../recovery/7-9-new-device-login.md)
+- [I see a warning that someone's key has changed — what do I do?](../galleries/key-change-warning.md)
+- [Removing someone from a gallery](../galleries/remove-collaborator.md)
+- [Logging in on a new device](../recovery/new-device-login.md)

@@ -27,6 +27,6 @@ Your new limits and features apply immediately once your plan shows as active. T
 
 ## Related articles
 
-- [What are the P3 plans and what's included?](./6-1-plan-overview.md)
-- [My payment failed — what happens?](./6-4-payment-failed.md)
-- [How do I get an invoice or receipt?](./6-7-invoice-receipt.md)
+- [What are the P3 plans and what's included?](./plan-overview.md)
+- [My payment failed — what happens?](./payment-failed.md)
+- [How do I get an invoice or receipt?](./invoice-receipt.md)

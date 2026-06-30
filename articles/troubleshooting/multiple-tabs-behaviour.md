@@ -27,9 +27,9 @@ Most synchronization happens automatically, but if you notice a tab seems to be 
 
 ## If tabs seem out of sync and a refresh doesn't fix it
 
-This would be unusual. Try closing and reopening the affected tab entirely rather than just refreshing. If the issue persists, contact support — see [How to contact P3 support](./8-12-contact-support.md).
+This would be unusual. Try closing and reopening the affected tab entirely rather than just refreshing. If the issue persists, contact support — see [How to contact P3 support](./contact-support.md).
 
 ## Related articles
 
-- [I see a warning that someone's key has changed — what do I do?](../galleries/3-10-key-change-warning.md)
-- ["Something went wrong loading your session"](./8-5-bootstrap-error.md)
+- [I see a warning that someone's key has changed — what do I do?](../galleries/key-change-warning.md)
+- ["Something went wrong loading your session"](./bootstrap-error.md)

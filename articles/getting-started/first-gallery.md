@@ -24,18 +24,18 @@ Uploads happen client-side first — your browser encrypts each photo before it 
 
 ## If something goes wrong mid-upload
 
-If part of a batch fails partway through, see [Some photos uploaded but others didn't](../troubleshooting/8-2-upload-partial-failure.md) for what to do — you won't need to start over or risk duplicate uploads.
+If part of a batch fails partway through, see [Some photos uploaded but others didn't](../troubleshooting/upload-partial-failure.md) for what to do — you won't need to start over or risk duplicate uploads.
 
 ## Next steps
 
 Once your gallery has photos in it, you can:
 
-- [Invite someone to view, upload to, or manage the gallery](./1-6-invite-collaborator.md)
-- [Create a share link for people without a P3 account](../galleries/3-5-share-link-create.md)
-- [Understand the difference between public and private galleries](../galleries/3-3-gallery-visibility.md)
+- [Invite someone to view, upload to, or manage the gallery](./invite-collaborator.md)
+- [Create a share link for people without a P3 account](../galleries/share-link-create.md)
+- [Understand the difference between public and private galleries](../galleries/gallery-visibility.md)
 
 ## Related articles
 
-- [Inviting someone to a gallery](./1-6-invite-collaborator.md)
-- [Photos won't upload — common causes and fixes](../troubleshooting/8-1-upload-fails.md)
-- [How is gallery storage calculated?](../galleries/3-9-gallery-storage-usage.md)
+- [Inviting someone to a gallery](./invite-collaborator.md)
+- [Photos won't upload — common causes and fixes](../troubleshooting/upload-fails.md)
+- [How is gallery storage calculated?](../galleries/gallery-storage-usage.md)

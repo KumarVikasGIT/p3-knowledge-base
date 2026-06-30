@@ -35,6 +35,6 @@ A fully "zero-knowledge" system that hid even gallery names or photo counts from
 
 ## Related articles
 
-- [What does "end-to-end encrypted" actually mean for my photos?](./2-1-what-is-e2ee.md)
-- [Where is my data stored and is it covered by Indian law?](./2-8-data-stored-india.md)
-- [What happens to my photos if P3 is hacked?](./2-5-p3-breach-scenario.md)
+- [What does "end-to-end encrypted" actually mean for my photos?](./what-is-e2ee.md)
+- [Where is my data stored and is it covered by Indian law?](./data-stored-india.md)
+- [What happens to my photos if P3 is hacked?](./p3-breach-scenario.md)

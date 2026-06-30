@@ -27,12 +27,12 @@ One thing worth being clear about: **this does not delete your client's own P3 a
 
 ## What revocation actually does
 
-Both actions stop your client from being able to access the affected gallery or galleries going forward through their normal client access. As with other access changes in P3, this works going forward — it can't undo viewing or downloading that already happened before you revoked access. See [Is a share link secure?](../encryption/2-4-share-link-security.md) for the fuller explanation of why that's a structural property of end-to-end encryption rather than a gap specific to client delivery.
+Both actions stop your client from being able to access the affected gallery or galleries going forward through their normal client access. As with other access changes in P3, this works going forward — it can't undo viewing or downloading that already happened before you revoked access. See [Is a share link secure?](../../docs/encryption/share-link-security.md) for the fuller explanation of why that's a structural property of end-to-end encryption rather than a gap specific to client delivery.
 
-If your client had also generated their own share link (because you'd enabled re-sharing), be aware that revoking their direct access doesn't automatically revoke a link they may have already shared further — if re-sharing was on, consider also reviewing [Can my client re-share the gallery?](./4-5-client-share-permission.md) to turn that permission off specifically, which does invalidate their generated links.
+If your client had also generated their own share link (because you'd enabled re-sharing), be aware that revoking their direct access doesn't automatically revoke a link they may have already shared further — if re-sharing was on, consider also reviewing [Can my client re-share the gallery?](./client-share-permission.md) to turn that permission off specifically, which does invalidate their generated links.
 
 ## Related articles
 
-- [Can my client re-share the gallery?](./4-5-client-share-permission.md)
-- [Is a share link secure?](../encryption/2-4-share-link-security.md)
-- [Adding a client to your account](./4-2-add-client.md)
+- [Can my client re-share the gallery?](./client-share-permission.md)
+- [Is a share link secure?](../../docs/encryption/share-link-security.md)
+- [Adding a client to your account](./add-client.md)

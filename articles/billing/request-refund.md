@@ -11,7 +11,7 @@ pinned: true
 
 # How to request a refund
 
-From **Settings → Plan → Billing**, select **Request a refund** and choose the payment you're asking about. You'll pick a reason and confirm — P3 checks eligibility automatically based on the timing rules in [What is P3's refund policy?](./6-5-refund-policy.md), so you'll know right away if the payment qualifies.
+From **Settings → Plan → Billing**, select **Request a refund** and choose the payment you're asking about. You'll pick a reason and confirm — P3 checks eligibility automatically based on the timing rules in [What is P3's refund policy?](./refund-policy.md), so you'll know right away if the payment qualifies.
 
 ## What to include
 
@@ -29,9 +29,9 @@ You'll see a confirmation once your request is submitted, along with an estimate
 
 ## If your payment isn't eligible
 
-If the payment falls outside the refund windows described in [What is P3's refund policy?](./6-5-refund-policy.md), you'll see why directly rather than a generic rejection. If you think there's a special circumstance worth considering, email billing@p3.app and explain — exceptions are evaluated case by case.
+If the payment falls outside the refund windows described in [What is P3's refund policy?](./refund-policy.md), you'll see why directly rather than a generic rejection. If you think there's a special circumstance worth considering, email billing@p3.app and explain — exceptions are evaluated case by case.
 
 ## Related articles
 
-- [What is P3's refund policy?](./6-5-refund-policy.md)
-- [How to downgrade or cancel your subscription](./6-3-downgrade-plan.md)
+- [What is P3's refund policy?](./refund-policy.md)
+- [How to downgrade or cancel your subscription](./downgrade-plan.md)

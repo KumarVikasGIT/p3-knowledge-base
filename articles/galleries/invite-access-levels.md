@@ -34,10 +34,10 @@ This is the right role for someone who should simply see and download the photos
 
 ## Changing someone's role later
 
-You don't need to remove and re-invite someone to change their role — tap their role badge in the collaborators panel and select the new one. This takes effect immediately and doesn't require a new key exchange, since the gallery's encryption key doesn't change when a role changes (only when access is removed entirely — see [Removing someone from a gallery](./3-7-remove-collaborator.md)).
+You don't need to remove and re-invite someone to change their role — tap their role badge in the collaborators panel and select the new one. This takes effect immediately and doesn't require a new key exchange, since the gallery's encryption key doesn't change when a role changes (only when access is removed entirely — see [Removing someone from a gallery](./remove-collaborator.md)).
 
 ## Related articles
 
-- [Inviting someone to a gallery](../getting-started/1-6-invite-collaborator.md)
-- [Removing someone from a gallery](./3-7-remove-collaborator.md)
-- [What is the client delivery feature?](../delivery/4-1-what-is-client-delivery.md)
+- [Inviting someone to a gallery](../getting-started/invite-collaborator.md)
+- [Removing someone from a gallery](./remove-collaborator.md)
+- [What is the client delivery feature?](../delivery/what-is-client-delivery.md)

@@ -22,7 +22,7 @@ After logging in with your email and password, P3 will detect that this device d
 - Your recovery phrase, or
 - Your backup password, if you set one up
 
-See [What are my options if I lose access?](./7-1-recovery-options-overview.md) for the full picture of these two paths.
+See [What are my options if I lose access?](./recovery-options-overview.md) for the full picture of these two paths.
 
 ## After recovery
 
@@ -30,6 +30,6 @@ Once your key is restored on the new device, P3 loads your galleries and sets up
 
 ## Related articles
 
-- [Recovering with your recovery phrase](./7-3-recover-with-mnemonic.md)
-- [Recovering with a backup password](./7-4-recover-with-backup-password.md)
-- [What are my options if I lose access?](./7-1-recovery-options-overview.md)
+- [Recovering with your recovery phrase](./recover-with-mnemonic.md)
+- [Recovering with a backup password](./recover-with-backup-password.md)
+- [What are my options if I lose access?](./recovery-options-overview.md)

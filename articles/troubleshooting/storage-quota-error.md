@@ -32,5 +32,5 @@ This has no impact on your actual photos or your P3 account — everything is sa
 
 ## Related articles
 
-- [I'm seeing a storage warning — what do I do?](../account/5-8-storage-warning.md)
-- [Photos are loading slowly or not at all](./8-4-photos-not-loading.md)
+- [I'm seeing a storage warning — what do I do?](../account/storage-warning.md)
+- [Photos are loading slowly or not at all](./photos-not-loading.md)

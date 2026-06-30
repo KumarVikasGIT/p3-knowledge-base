@@ -26,9 +26,9 @@ If you already have a client profile with that email, you'll see an error tellin
 
 ## Next step
 
-Once your client profile exists, assign a gallery to them — see [Sending a delivery link to a client](./4-3-send-delivery-link.md).
+Once your client profile exists, assign a gallery to them — see [Sending a delivery link to a client](./send-delivery-link.md).
 
 ## Related articles
 
-- [Sending a delivery link to a client](./4-3-send-delivery-link.md)
-- [What is the client delivery feature?](./4-1-what-is-client-delivery.md)
+- [Sending a delivery link to a client](./send-delivery-link.md)
+- [What is the client delivery feature?](./what-is-client-delivery.md)

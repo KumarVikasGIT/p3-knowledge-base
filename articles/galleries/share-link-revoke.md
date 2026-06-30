@@ -19,7 +19,7 @@ From the Share panel on a gallery you own, you have two related but different ac
 
 This creates a brand new link and invalidates the old one. Anyone trying to open the *old* link afterward will be denied — it no longer works.
 
-The important nuance: regenerating doesn't reach into the browser of someone who *already opened* the old link. If they already loaded the gallery, their device already has what it needs to decrypt that content locally, and a new link on P3's side doesn't undo that. Regeneration stops *future* access through the old link — it isn't a way to retroactively pull back access from someone who's already viewed the gallery. This is explained in more depth in [Is a share link secure?](../encryption/2-4-share-link-security.md).
+The important nuance: regenerating doesn't reach into the browser of someone who *already opened* the old link. If they already loaded the gallery, their device already has what it needs to decrypt that content locally, and a new link on P3's side doesn't undo that. Regeneration stops *future* access through the old link — it isn't a way to retroactively pull back access from someone who's already viewed the gallery. This is explained in more depth in [Is a share link secure?](../../docs/encryption/share-link-security.md).
 
 Use this when you want to stop sharing with people who *haven't yet* opened the link — for example, you sent it to the wrong group and want to cut that off before anyone opens it, or you simply want a fresh link going forward.
 
@@ -31,10 +31,10 @@ This still carries the same underlying limitation as above: it doesn't undo decr
 
 ## If you need a harder guarantee
 
-If your concern is specifically that someone who already had access needs to be cut off as completely as P3's architecture allows — not just from future link use — the right tool is gallery key rotation, which re-issues the gallery's encryption key for everyone who should keep access. This is a heavier action than regenerating a link. Contact support if you need this, or see [Removing someone from a gallery](./3-7-remove-collaborator.md), which triggers rotation automatically for named collaborators.
+If your concern is specifically that someone who already had access needs to be cut off as completely as P3's architecture allows — not just from future link use — the right tool is gallery key rotation, which re-issues the gallery's encryption key for everyone who should keep access. This is a heavier action than regenerating a link. Contact support if you need this, or see [Removing someone from a gallery](./remove-collaborator.md), which triggers rotation automatically for named collaborators.
 
 ## Related articles
 
-- [Is a share link secure?](../encryption/2-4-share-link-security.md)
-- [Removing someone from a gallery](./3-7-remove-collaborator.md)
-- [Public vs private galleries — what's the difference?](./3-3-gallery-visibility.md)
+- [Is a share link secure?](../../docs/encryption/share-link-security.md)
+- [Removing someone from a gallery](./remove-collaborator.md)
+- [Public vs private galleries — what's the difference?](./gallery-visibility.md)

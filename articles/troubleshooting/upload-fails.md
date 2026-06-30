@@ -14,7 +14,7 @@ Start by checking what message you're actually seeing, since the cause and fix a
 
 ## "Storage full" or upload blocked immediately
 
-You've hit your plan's storage limit. Uploads are blocked until you free up space or upgrade. See [How is gallery storage calculated?](../galleries/3-9-gallery-storage-usage.md) and [How to upgrade your plan](../billing/6-2-upgrade-plan.md).
+You've hit your plan's storage limit. Uploads are blocked until you free up space or upgrade. See [How is gallery storage calculated?](../galleries/gallery-storage-usage.md) and [How to upgrade your plan](../billing/upgrade-plan.md).
 
 ## Upload starts but stalls or fails partway
 
@@ -26,18 +26,18 @@ This isn't an error — P3 detects when a file has already been uploaded (even a
 
 ## Gallery shows "temporarily read-only"
 
-Uploads are blocked while a gallery is mid-rotation — this happens automatically right after someone is removed from the gallery. It resolves on its own, usually within seconds. See [Removing someone from a gallery](../galleries/3-7-remove-collaborator.md) for why this happens.
+Uploads are blocked while a gallery is mid-rotation — this happens automatically right after someone is removed from the gallery. It resolves on its own, usually within seconds. See [Removing someone from a gallery](../galleries/remove-collaborator.md) for why this happens.
 
 ## Nothing happens at all when you try to upload
 
-Check that you have permission to upload to this gallery — only the Owner and Editors can upload; Viewers cannot. See [Gallery access levels](../galleries/3-4-invite-access-levels.md) to confirm your role.
+Check that you have permission to upload to this gallery — only the Owner and Editors can upload; Viewers cannot. See [Gallery access levels](../galleries/invite-access-levels.md) to confirm your role.
 
 ## If none of this matches what you're seeing
 
-See [Some photos uploaded but others didn't](./8-2-upload-partial-failure.md) if it's a partial-batch issue specifically, or [How to contact P3 support](./8-12-contact-support.md) with details on what you're seeing.
+See [Some photos uploaded but others didn't](./upload-partial-failure.md) if it's a partial-batch issue specifically, or [How to contact P3 support](./contact-support.md) with details on what you're seeing.
 
 ## Related articles
 
-- [Some photos uploaded but others didn't](./8-2-upload-partial-failure.md)
-- [How is gallery storage calculated?](../galleries/3-9-gallery-storage-usage.md)
-- [Uploading photos to a gallery](../galleries/3-2-upload-photos.md)
+- [Some photos uploaded but others didn't](./upload-partial-failure.md)
+- [How is gallery storage calculated?](../galleries/gallery-storage-usage.md)
+- [Uploading photos to a gallery](../galleries/upload-photos.md)

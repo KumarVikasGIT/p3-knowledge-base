@@ -29,6 +29,6 @@ Occasionally, if your account's encryption key has changed since you opened the 
 
 ## Related articles
 
-- [What is a backup password and should I set one?](./5-2-backup-password.md)
-- [Recovering with a backup password](../recovery/7-4-recover-with-backup-password.md)
-- [What are my options if I lose access?](../recovery/7-1-recovery-options-overview.md)
+- [What is a backup password and should I set one?](./backup-password.md)
+- [Recovering with a backup password](../recovery/recover-with-backup-password.md)
+- [What are my options if I lose access?](../recovery/recovery-options-overview.md)

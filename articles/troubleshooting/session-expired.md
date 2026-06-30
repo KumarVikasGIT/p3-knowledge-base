@@ -25,9 +25,9 @@ Just log back in. If your device already has your encryption key stored locally,
 
 ## If it happens repeatedly, especially soon after logging in
 
-This is unusual and worth a closer look — check whether your browser is configured to clear site data automatically (some privacy-focused browser settings do this aggressively), since that would explain frequent unexpected logouts. If that's not it, contact support — see [How to contact P3 support](./8-12-contact-support.md).
+This is unusual and worth a closer look — check whether your browser is configured to clear site data automatically (some privacy-focused browser settings do this aggressively), since that would explain frequent unexpected logouts. If that's not it, contact support — see [How to contact P3 support](./contact-support.md).
 
 ## Related articles
 
-- ["Something went wrong loading your session"](./8-5-bootstrap-error.md)
-- [Logging in on a new device](../recovery/7-9-new-device-login.md)
+- ["Something went wrong loading your session"](./bootstrap-error.md)
+- [Logging in on a new device](../recovery/new-device-login.md)

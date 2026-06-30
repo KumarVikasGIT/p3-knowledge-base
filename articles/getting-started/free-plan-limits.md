@@ -22,7 +22,7 @@ There's no time limit and no feature countdown. Free is a genuine tier, not a tr
 
 The higher storage and gallery ceilings of Personal and Pro, and some professional-tier features may be plan-gated.
 
-For exact current numbers and pricing, see [What are the P3 plans and what's included?](../billing/6-1-plan-overview.md) — that's the single source of truth for limits, kept current as pricing or limits change.
+For exact current numbers and pricing, see [What are the P3 plans and what's included?](../billing/plan-overview.md) — that's the single source of truth for limits, kept current as pricing or limits change.
 
 ## No hidden catch
 
@@ -30,10 +30,10 @@ P3 doesn't show ads or sell data on the free tier the way some "free" cloud stor
 
 ## If you outgrow the free plan
 
-See [How to upgrade your plan](../billing/6-2-upgrade-plan.md), or if you're already over your limits, [What happens if I exceed my plan limits?](../billing/6-8-plan-limits-enforcement.md)
+See [How to upgrade your plan](../billing/upgrade-plan.md), or if you're already over your limits, [What happens if I exceed my plan limits?](../billing/plan-limits-enforcement.md)
 
 ## Related articles
 
-- [What are the P3 plans and what's included?](../billing/6-1-plan-overview.md)
-- [How to upgrade your plan](../billing/6-2-upgrade-plan.md)
-- [I'm seeing a storage warning — what do I do?](../account/5-8-storage-warning.md)
+- [What are the P3 plans and what's included?](../billing/plan-overview.md)
+- [How to upgrade your plan](../billing/upgrade-plan.md)
+- [I'm seeing a storage warning — what do I do?](../account/storage-warning.md)

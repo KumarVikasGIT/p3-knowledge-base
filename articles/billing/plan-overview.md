@@ -38,7 +38,7 @@ P3 has three plans available at launch: **Free**, **Personal**, and **Pro**. Eve
 
 ## A note on "clients" across plans
 
-Every plan lets a Professional account add client profiles and deliver galleries — the difference is the tooling around it. On Free and Personal, you can still send a gallery link to a client, but the dedicated client management screen (status tracking, organized client list, delivery dashboard) is a Pro-plan feature. See [What is the client delivery feature?](../delivery/4-1-what-is-client-delivery.md) for what the full experience includes.
+Every plan lets a Professional account add client profiles and deliver galleries — the difference is the tooling around it. On Free and Personal, you can still send a gallery link to a client, but the dedicated client management screen (status tracking, organized client list, delivery dashboard) is a Pro-plan feature. See [What is the client delivery feature?](../delivery/what-is-client-delivery.md) for what the full experience includes.
 
 ## Choosing a plan
 
@@ -46,6 +46,6 @@ Most personal users comfortably fit on Free or Personal depending on how many ga
 
 ## Related articles
 
-- [What can I do on the free plan?](../getting-started/1-7-free-plan-limits.md)
-- [How to upgrade your plan](./6-2-upgrade-plan.md)
-- [What is the client delivery feature?](../delivery/4-1-what-is-client-delivery.md)
+- [What can I do on the free plan?](../getting-started/free-plan-limits.md)
+- [How to upgrade your plan](./upgrade-plan.md)
+- [What is the client delivery feature?](../delivery/what-is-client-delivery.md)

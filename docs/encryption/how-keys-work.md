@@ -13,7 +13,7 @@ There are three things involved, and they each play a different role. No cryptog
 
 ## Your recovery phrase
 
-A sequence of ordinary words shown to you once, during key setup. This is the root of everything else — every key you have is generated from this phrase. P3 never stores it. See [What happens during key setup?](../getting-started/1-4-key-setup-explained.md) for the full explanation of why.
+A sequence of ordinary words shown to you once, during key setup. This is the root of everything else — every key you have is generated from this phrase. P3 never stores it. See [What happens during key setup?](../../articles/getting-started/key-setup-explained.md) for the full explanation of why.
 
 ## Your personal key
 
@@ -34,10 +34,10 @@ When you invite someone to a gallery, P3 doesn't send them the gallery key direc
 3. Inviting someone wraps a copy of that gallery key specifically for them, using their public key.
 4. Only people with a valid wrapped copy — unwrapped using their own private key, derived from their own phrase — can decrypt that gallery's photos.
 
-This is why losing your recovery phrase is serious: it's the one piece that regenerates your private key. Without it, there's no way to unwrap any gallery key meant for you. See [What are my options if I lose access?](../recovery/7-1-recovery-options-overview.md)
+This is why losing your recovery phrase is serious: it's the one piece that regenerates your private key. Without it, there's no way to unwrap any gallery key meant for you. See [What are my options if I lose access?](../../articles/recovery/recovery-options-overview.md)
 
 ## Related articles
 
-- [What happens during key setup?](../getting-started/1-4-key-setup-explained.md)
-- [What is a key fingerprint and why does P3 show it?](./2-6-tofu-key-trust.md)
-- [What are my options if I lose access?](../recovery/7-1-recovery-options-overview.md)
+- [What happens during key setup?](../../articles/getting-started/key-setup-explained.md)
+- [What is a key fingerprint and why does P3 show it?](./tofu-key-trust.md)
+- [What are my options if I lose access?](../../articles/recovery/recovery-options-overview.md)

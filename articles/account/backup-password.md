@@ -28,10 +28,10 @@ Yes, generally — it costs you nothing day to day and gives you a real second c
 
 ## How to set it up
 
-See [How to set or change your backup password](./5-3-set-backup-password.md).
+See [How to set or change your backup password](./set-backup-password.md).
 
 ## Related articles
 
-- [How to set or change your backup password](./5-3-set-backup-password.md)
-- [What are my options if I lose access?](../recovery/7-1-recovery-options-overview.md)
-- [Recovering with a backup password](../recovery/7-4-recover-with-backup-password.md)
+- [How to set or change your backup password](./set-backup-password.md)
+- [What are my options if I lose access?](../recovery/recovery-options-overview.md)
+- [Recovering with a backup password](../recovery/recover-with-backup-password.md)

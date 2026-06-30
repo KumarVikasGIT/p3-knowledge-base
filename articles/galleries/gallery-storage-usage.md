@@ -24,10 +24,10 @@ Every photo across every gallery you own counts toward your storage limit. Photo
 
 ## If you're running low
 
-See [I'm seeing a storage warning — what do I do?](../account/5-8-storage-warning.md) for what happens as you approach and exceed your limit, and your options.
+See [I'm seeing a storage warning — what do I do?](../account/storage-warning.md) for what happens as you approach and exceed your limit, and your options.
 
 ## Related articles
 
-- [What can I do on the free plan?](../getting-started/1-7-free-plan-limits.md)
-- [I'm seeing a storage warning — what do I do?](../account/5-8-storage-warning.md)
-- [What are the P3 plans and what's included?](../billing/6-1-plan-overview.md)
+- [What can I do on the free plan?](../getting-started/free-plan-limits.md)
+- [I'm seeing a storage warning — what do I do?](../account/storage-warning.md)
+- [What are the P3 plans and what's included?](../billing/plan-overview.md)

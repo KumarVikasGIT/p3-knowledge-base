@@ -30,6 +30,6 @@ Similar to inviting a regular collaborator, granting a client's key access requi
 
 ## Related articles
 
-- [What does my client see when they open the link?](./4-6-guest-view-experience.md)
-- [Controlling what a client can download](./4-4-client-download-controls.md)
-- [Inviting someone to a gallery](../getting-started/1-6-invite-collaborator.md)
+- [What does my client see when they open the link?](./guest-view-experience.md)
+- [Controlling what a client can download](./client-download-controls.md)
+- [Inviting someone to a gallery](../getting-started/invite-collaborator.md)

@@ -20,10 +20,10 @@ A fully in-session "enter current password, set new password" form is planned bu
 
 ## A reminder on what this does and doesn't affect
 
-Changing your account password only affects how you log in — it has no effect on your photo decryption key, which is derived separately from your recovery phrase. See [Why can't P3 reset my password and restore my photos?](../encryption/2-7-no-password-reset-by-email.md) if that distinction isn't clear, since it's a common point of confusion.
+Changing your account password only affects how you log in — it has no effect on your photo decryption key, which is derived separately from your recovery phrase. See [Why can't P3 reset my password and restore my photos?](../../docs/encryption/no-password-reset-by-email.md) if that distinction isn't clear, since it's a common point of confusion.
 
 ## Related articles
 
-- [I forgot my account password](../recovery/7-2-forgot-password.md)
-- [Why can't P3 reset my password and restore my photos?](../encryption/2-7-no-password-reset-by-email.md)
-- [What is a backup password and should I set one?](./5-2-backup-password.md)
+- [I forgot my account password](../recovery/forgot-password.md)
+- [Why can't P3 reset my password and restore my photos?](../../docs/encryption/no-password-reset-by-email.md)
+- [What is a backup password and should I set one?](./backup-password.md)

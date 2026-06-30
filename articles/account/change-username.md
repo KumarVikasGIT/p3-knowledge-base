@@ -14,9 +14,9 @@ From **Settings → Account**, edit the **Display name** field and select **Save
 
 ## What else you can edit here
 
-Your account type (Personal or Professional) can also be changed from this same page — see [Switching between Personal and Professional](./5-6-account-type-switch.md). Your email address cannot currently be changed — see [Can I change my account email?](./5-4-change-email.md) for why.
+Your account type (Personal or Professional) can also be changed from this same page — see [Switching between Personal and Professional](./account-type-switch.md). Your email address cannot currently be changed — see [Can I change my account email?](./change-email.md) for why.
 
 ## Related articles
 
-- [Can I change my account email?](./5-4-change-email.md)
-- [Switching between Personal and Professional](./5-6-account-type-switch.md)
+- [Can I change my account email?](./change-email.md)
+- [Switching between Personal and Professional](./account-type-switch.md)

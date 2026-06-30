@@ -19,13 +19,13 @@ Rotation and reset are both processes that touch your encryption keys, and runni
 
 This isn't something you need to actively fix — it resolves on its own. Gallery rotations are typically quick, usually finishing within seconds to at most a few minutes for very large galleries. Wait a short while and try the key reset again.
 
-If you removed a collaborator from a gallery recently, that's almost certainly the cause — see [Removing someone from a gallery](../galleries/3-7-remove-collaborator.md) for what's happening behind the scenes during that process.
+If you removed a collaborator from a gallery recently, that's almost certainly the cause — see [Removing someone from a gallery](../galleries/remove-collaborator.md) for what's happening behind the scenes during that process.
 
 ## If it's still blocked after a while
 
-If you've waited and the reset still won't go through, contact support — see [How to contact P3 support](../troubleshooting/8-12-contact-support.md) — since at that point it's worth having someone look at the specific gallery involved.
+If you've waited and the reset still won't go through, contact support — see [How to contact P3 support](../troubleshooting/contact-support.md) — since at that point it's worth having someone look at the specific gallery involved.
 
 ## Related articles
 
-- [Removing someone from a gallery](../galleries/3-7-remove-collaborator.md)
-- [What is a key reset and what does it permanently delete?](./7-6-key-reset-explained.md)
+- [Removing someone from a gallery](../galleries/remove-collaborator.md)
+- [What is a key reset and what does it permanently delete?](./key-reset-explained.md)

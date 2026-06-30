@@ -25,10 +25,10 @@ Deletion is a soft-delete initially, with permanent cleanup happening shortly af
 
 ## Before you delete
 
-If you only want to stop new people from accessing a gallery — not destroy it entirely — consider [Removing someone from a gallery](./3-7-remove-collaborator.md) or [Revoking or regenerating a share link](./3-6-share-link-revoke.md) instead. Deletion is for when you genuinely want the gallery and everything in it gone for good.
+If you only want to stop new people from accessing a gallery — not destroy it entirely — consider [Removing someone from a gallery](./remove-collaborator.md) or [Revoking or regenerating a share link](./share-link-revoke.md) instead. Deletion is for when you genuinely want the gallery and everything in it gone for good.
 
 ## Related articles
 
-- [Removing someone from a gallery](./3-7-remove-collaborator.md)
-- [How is gallery storage calculated?](./3-9-gallery-storage-usage.md)
-- [Deleting your account](../account/5-7-delete-account.md)
+- [Removing someone from a gallery](./remove-collaborator.md)
+- [How is gallery storage calculated?](./gallery-storage-usage.md)
+- [Deleting your account](../account/delete-account.md)

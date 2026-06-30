@@ -38,14 +38,14 @@ To confirm, you'll need to type an exact phrase rather than just clicking a butt
 
 ## After the reset
 
-You'll go through key setup again, just like when you first created your account — a brand new recovery phrase is generated, and this time, it's worth taking [How to save your recovery phrase safely](./7-8-save-mnemonic-safely.md) seriously from the start.
+You'll go through key setup again, just like when you first created your account — a brand new recovery phrase is generated, and this time, it's worth taking [How to save your recovery phrase safely](./save-mnemonic-safely.md) seriously from the start.
 
 ## This is not the same as deleting your account
 
-A key reset destroys your galleries but keeps your P3 account intact. Deleting your account entirely is a different, separate action — see [Deleting your account](../account/5-7-delete-account.md) if that's actually what you're looking for, which is a bigger step than most people in this situation need.
+A key reset destroys your galleries but keeps your P3 account intact. Deleting your account entirely is a different, separate action — see [Deleting your account](../account/delete-account.md) if that's actually what you're looking for, which is a bigger step than most people in this situation need.
 
 ## Related articles
 
-- [I lost my recovery phrase and have no backup password](./7-5-lost-mnemonic-no-backup.md)
-- [Why is my key reset blocked?](./7-7-key-reset-blocked.md)
-- [Deleting your account](../account/5-7-delete-account.md)
+- [I lost my recovery phrase and have no backup password](./lost-mnemonic-no-backup.md)
+- [Why is my key reset blocked?](./key-reset-blocked.md)
+- [Deleting your account](../account/delete-account.md)

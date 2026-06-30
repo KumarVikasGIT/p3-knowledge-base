@@ -24,7 +24,7 @@ If you're charged a renewal you didn't intend — for example, you meant to canc
 
 ## Partial-period cancellations
 
-P3 doesn't prorate refunds for cancelling partway through a billing period. When you cancel, your plan stays active through the end of the period you've already paid for, then moves to Free — see [How to downgrade or cancel your subscription](./6-3-downgrade-plan.md).
+P3 doesn't prorate refunds for cancelling partway through a billing period. When you cancel, your plan stays active through the end of the period you've already paid for, then moves to Free — see [How to downgrade or cancel your subscription](./downgrade-plan.md).
 
 ## Annual plans
 
@@ -38,7 +38,7 @@ Annual subscribers who cancel within 30 days get a full refund, same as monthly.
 
 ## How to request one
 
-See [How to request a refund](./6-6-request-refund.md).
+See [How to request a refund](./request-refund.md).
 
 ## The full legal text
 
@@ -46,5 +46,5 @@ This article is a plain-language summary for support purposes. The complete, aut
 
 ## Related articles
 
-- [How to request a refund](./6-6-request-refund.md)
-- [How to downgrade or cancel your subscription](./6-3-downgrade-plan.md)
+- [How to request a refund](./request-refund.md)
+- [How to downgrade or cancel your subscription](./downgrade-plan.md)

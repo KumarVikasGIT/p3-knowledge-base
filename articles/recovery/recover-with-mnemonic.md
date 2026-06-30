@@ -28,6 +28,6 @@ You'll see a short progress screen while P3 loads your galleries and decrypts th
 
 ## Related articles
 
-- [What are my options if I lose access?](./7-1-recovery-options-overview.md)
-- [How to save your recovery phrase safely](./7-8-save-mnemonic-safely.md)
-- [Logging in on a new device](./7-9-new-device-login.md)
+- [What are my options if I lose access?](./recovery-options-overview.md)
+- [How to save your recovery phrase safely](./save-mnemonic-safely.md)
+- [Logging in on a new device](./new-device-login.md)

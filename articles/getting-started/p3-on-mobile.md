@@ -44,5 +44,5 @@ Status pending confirmation. This section will cover:
 
 ## Related articles
 
-- [How to create your account](./1-2-create-account.md)
-- [What happens during key setup?](./1-4-key-setup-explained.md)
+- [How to create your account](./create-account.md)
+- [What happens during key setup?](./key-setup-explained.md)

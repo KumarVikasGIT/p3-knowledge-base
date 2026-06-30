@@ -28,9 +28,9 @@ Some links are tied to a specific delivery and may not work if opened in the wro
 
 ## If it's your own gallery and you can't get the link to work
 
-See [Revoking or regenerating a share link](../galleries/3-6-share-link-revoke.md) to confirm your gallery's current sharing settings, or [Creating and sharing a gallery link](../galleries/3-5-share-link-create.md) to generate a fresh one.
+See [Revoking or regenerating a share link](../galleries/share-link-revoke.md) to confirm your gallery's current sharing settings, or [Creating and sharing a gallery link](../galleries/share-link-create.md) to generate a fresh one.
 
 ## Related articles
 
-- [Revoking or regenerating a share link](../galleries/3-6-share-link-revoke.md)
-- [Is a share link secure?](../encryption/2-4-share-link-security.md)
+- [Revoking or regenerating a share link](../galleries/share-link-revoke.md)
+- [Is a share link secure?](../../docs/encryption/share-link-security.md)

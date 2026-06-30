@@ -19,8 +19,8 @@ The first time you open a gallery on a given device, P3 has to download and decr
 If photos aren't loading even after waiting, check:
 
 - **Your connection.** A dropped connection mid-load will show as stalled rather than failed outright in some cases.
-- **Whether you're seeing a specific error**, like a broken-image icon rather than just a blank space — if so, see [Photos show a decryption error or broken image](./8-3-decryption-error.md), which is a more specific issue with its own fix.
-- **Whether the gallery is mid-rotation** — see [Removing someone from a gallery](../galleries/3-7-remove-collaborator.md) for why this temporarily affects a gallery.
+- **Whether you're seeing a specific error**, like a broken-image icon rather than just a blank space — if so, see [Photos show a decryption error or broken image](./decryption-error.md), which is a more specific issue with its own fix.
+- **Whether the gallery is mid-rotation** — see [Removing someone from a gallery](../galleries/remove-collaborator.md) for why this temporarily affects a gallery.
 
 ## If only some photos are slow
 
@@ -28,10 +28,10 @@ This is normal for large galleries — P3 prioritizes loading what's visible on 
 
 ## If nothing helps
 
-Try refreshing the page first. If the issue persists across multiple galleries or sessions, contact support — see [How to contact P3 support](./8-12-contact-support.md).
+Try refreshing the page first. If the issue persists across multiple galleries or sessions, contact support — see [How to contact P3 support](./contact-support.md).
 
 ## Related articles
 
-- [Photos show a decryption error or broken image](./8-3-decryption-error.md)
-- [What works when I'm offline?](./8-10-offline-behaviour.md)
-- [Browser storage is full — what do I do?](./8-11-storage-quota-error.md)
+- [Photos show a decryption error or broken image](./decryption-error.md)
+- [What works when I'm offline?](./offline-behaviour.md)
+- [Browser storage is full — what do I do?](./storage-quota-error.md)

@@ -11,7 +11,7 @@ author: Vikas Kumbhakar
 
 Client delivery is P3's photographer-to-client workflow — a purpose-built way to send finished galleries to clients, distinct from inviting someone as a regular collaborator.
 
-It's available on Professional accounts (see [Personal vs Professional](../getting-started/1-3-account-types.md)), and the full client management interface requires the Pro plan — see [What are the P3 plans and what's included?](../billing/6-1-plan-overview.md) for the exact breakdown.
+It's available on Professional accounts (see [Personal vs Professional](../getting-started/account-types.md)), and the full client management interface requires the Pro plan — see [What are the P3 plans and what's included?](../billing/plan-overview.md) for the exact breakdown.
 
 ## How it's different from inviting a collaborator
 
@@ -29,6 +29,6 @@ Worth knowing: that engagement visibility is part of how the feature works, not 
 
 ## Related articles
 
-- [Adding a client to your account](./4-2-add-client.md)
-- [Personal vs Professional — which should I choose?](../getting-started/1-3-account-types.md)
-- [What are the P3 plans and what's included?](../billing/6-1-plan-overview.md)
+- [Adding a client to your account](./add-client.md)
+- [Personal vs Professional — which should I choose?](../getting-started/account-types.md)
+- [What are the P3 plans and what's included?](../billing/plan-overview.md)

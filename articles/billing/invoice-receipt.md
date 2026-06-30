@@ -21,5 +21,5 @@ You can also access your full payment history directly through the Razorpay bill
 
 ## Related articles
 
-- [How to upgrade your plan](./6-2-upgrade-plan.md)
-- [How to request a refund](./6-6-request-refund.md)
+- [How to upgrade your plan](./upgrade-plan.md)
+- [How to request a refund](./request-refund.md)
